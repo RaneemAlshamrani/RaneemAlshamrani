@@ -49,7 +49,13 @@
 
 <div align="left">
 </div>
+###
 
+<h2 align="left">🌐 Connect with Me</h2>
+
+###
+
+<br clear="both">
 ###
 <div align="left">
   <a href="https://www.linkedin.com/in/raneemalshamrani/" target="_blank">
