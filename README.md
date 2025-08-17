@@ -51,3 +51,14 @@
 </div>
 
 ###
+<div align="left">
+  <a href="https://www.linkedin.com/in/raneemalshamrani/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/1iran09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="34" alt="twitter logo"  />
+  </a>
+  <a href="ittraneem66@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="34" alt="gmail logo"  />
+  </a>
+</div>
