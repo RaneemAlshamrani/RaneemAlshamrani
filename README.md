@@ -53,10 +53,8 @@
 
 <h2 align="left">🌐 Connect with Me</h2>
 
-###
 
 <br clear="both">
-###
 <div align="left">
   <a href="https://www.linkedin.com/in/raneemalshamrani/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
